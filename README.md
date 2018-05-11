@@ -8,3 +8,5 @@ commit 3
 
 Branch "develop" is created
 Another commit in "develop"
+
+additional commit 1 in "develop"
