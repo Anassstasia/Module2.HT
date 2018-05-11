@@ -7,3 +7,4 @@ commit 2
 commit 3
 
 Branch "develop" is created
+Another commit in "develop"
