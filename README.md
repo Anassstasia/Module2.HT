@@ -9,5 +9,6 @@ commit 3
 Branch "develop" is created
 Another commit in "develop"
 
-additional commit 1 in "develop"
-additional commit 2 in "develop"
+
+additional commit in Master
+
