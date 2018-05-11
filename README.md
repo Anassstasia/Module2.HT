@@ -12,3 +12,4 @@ Another commit in "develop"
 
 additional commit in Master
 
+one more additional commit
